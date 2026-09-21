@@ -13,7 +13,7 @@ Una aplicación web progresiva (**PWA**) rápida y colaborativa para la gestión
 
 Puedes probar la aplicación directamente desde cualquier navegador o dispositivo móvil:
 
-👉 **[Abrir Aplicación Web](https://juliaa64.github.io/homePlan/)**
+👉 **[Abrir Aplicación Web](https://juliaa64.github.io/HomePlan/)**
 
 ---
 
@@ -26,8 +26,6 @@ Puedes probar la aplicación directamente desde cualquier navegador o dispositiv
 - 🎨 **Diseño adaptativo con Material 3:** Interfaz intuitiva y optimizada tanto para escritorio como para pantallas táctiles.
 
 ---
-
-## 🏗️ Arquitectura técnica
 
 ## 🏗️ Estructura del despliegue (Web Build)
 
